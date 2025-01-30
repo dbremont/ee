@@ -12,3 +12,4 @@
 - [Verilog Project Ideas](https://vlsiverify.com/verilog/verilog-project-ideas/)
 - [awesome-electronics](https://github.com/kitspace/awesome-electronics)
 - [Maestrofísica](https://righteous-guardian-68f.notion.site/Maestrof-sica-140c0f5171ec804eba5bd5581c8fe8cf?pvs=4)
+- [awesome-hdl](https://github.com/drom/awesome-hdl)
