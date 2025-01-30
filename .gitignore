@@ -1,0 +1,2 @@
+# Ignore the entire obj_dir directory
+**/obj_dir/
